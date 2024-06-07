@@ -24,9 +24,8 @@
 
 <div>
   <p align="left" style="background:yellow">
-  <a href="https://www.linkedin.com/in/victordovalle/" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="instagram"/>
-  </a>
-  </p>
+  <a href="https://www.linkedin.com/in/victordovalle/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="instagram"/></a>
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </p>
+
 </div>
