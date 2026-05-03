@@ -5,7 +5,7 @@ Backend Software Engineer with 3+ years of experience, focused on building scala
 🛡️ Background in cybersecurity and digital identity research at <a href="https://labsec.ufsc.br/">LabSEC</a>  
 🎓 Computer Science student at <a href="https://cco.ufsc.br/">UFSC</a>  
 
-💡 Interests: Backend Development, Distributed Systems, DevOps, and Applied Cryptography  
+💡 Interests: Backend Development, Distributed Systems and DevOps
 
 
 ## 🌐 Socials:
